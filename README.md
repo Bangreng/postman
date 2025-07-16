@@ -4,16 +4,22 @@
 ```
 {
   "user": {
-    "username": "pavlen1",
-    "email": "qqwweerrttyyy@gmail.com",
-    "password": "qwertyu123456"
+    "username": "bangreng",
+    "email": "pavlent774@gmail.com",
+    "password": "qwerty12345"
   }
 }
 ```
 
 ### Ответ:
 ```
-{"user":{"username":"pavlen1","email":"qqwweerrttyyy@gmail.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzYzYWI0NWVmZjZlMWIwMGQyN2Y1MiIsInVzZXJuYW1lIjoicGF2bGVuMSIsImV4cCI6MTc1Nzc2Mjc0MSwiaWF0IjoxNzUyNTc4NzQxfQ.s-GK8-iICP5bm6Xt00pWbmilqy64pIdD-c1IXGATfuw"}}
+{
+    "user": {
+        "username": "bangreng",
+        "email": "pavlent774@gmail.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzdjM2RhNWVmZjZlMWIwMGQyN2Y1OSIsInVzZXJuYW1lIjoiYmFuZ3JlbmciLCJleHAiOjE3NTc4NjMzODYsImlhdCI6MTc1MjY3OTM4Nn0.LltYRU3ubGHV_Yjq1VZgSXfLDW2c2g5C_Qo80EQexSc"
+    }
+}
 ```
 
 
@@ -24,15 +30,21 @@
 ```
 {
   "user": {
-    "email": "qqwweerrttyyy@gmail.com",
-    "password": "qwertyu123456"
+    "email": "pavlent774@gmail.com",
+    "password": "qwerty12345"
   }
 }
 ```
 
 ### Ответ:
 ```
-{"user":{"username":"pavlen1","email":"qqwweerrttyyy@gmail.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzYzYWI0NWVmZjZlMWIwMGQyN2Y1MiIsInVzZXJuYW1lIjoicGF2bGVuMSIsImV4cCI6MTc1Nzc2MzQ5NiwiaWF0IjoxNzUyNTc5NDk2fQ.b7kkHo3sYPaX0w2nnxF9DVIWhnJ_VUlDywMsK102Eg8"}}
+{
+    "user": {
+        "username": "bangreng",
+        "email": "pavlent774@gmail.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzdjM2RhNWVmZjZlMWIwMGQyN2Y1OSIsInVzZXJuYW1lIjoiYmFuZ3JlbmciLCJleHAiOjE3NTc4NjM1OTYsImlhdCI6MTc1MjY3OTU5Nn0.cF27GUrv40oZ-0L3t9u_703t4jULRaJVnTknhFqHmF0"
+    }
+}
 ```
 
 
@@ -41,5 +53,11 @@
 ### Ответ:
 
 ```
-{"user":{"username":"pavlen1","email":"qqwweerrttyyy@gmail.com","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzYzYWI0NWVmZjZlMWIwMGQyN2Y1MiIsInVzZXJuYW1lIjoicGF2bGVuMSIsImV4cCI6MTc1Nzc2NDAwNCwiaWF0IjoxNzUyNTgwMDA0fQ.5h6nbSWlRG52zRWySTYKSBNJYSyj2Xg5xbVNfnf4zJI"}}
+{
+    "user": {
+        "username": "bangreng",
+        "email": "pavlent774@gmail.com",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4NzdjM2RhNWVmZjZlMWIwMGQyN2Y1OSIsInVzZXJuYW1lIjoiYmFuZ3JlbmciLCJleHAiOjE3NTc4NjM3NTAsImlhdCI6MTc1MjY3OTc1MH0.HElUVJGXz5hNM2kBsBvZyk9HoKE9cbaPvth2g_UPFEQ"
+    }
+}
 ```
